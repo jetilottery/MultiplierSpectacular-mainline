@@ -1,0 +1,21 @@
+{"frames": {
+
+"titleGlow":
+{
+	"frame": {"x":1,"y":1,"w":1683,"h":963},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1683,"h":963},
+	"sourceSize": {"w":1683,"h":963},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "effects-1.jpg",
+	"format": "RGB888",
+	"size": {"w":1685,"h":965},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f1abd62b95cbac3fc1a22af7ee9fb20:b4a3c0ccc3e5a5dc87a81ac74fc27184:e7d936bf13754d046b15b0fa27f69750$"
+}
+}

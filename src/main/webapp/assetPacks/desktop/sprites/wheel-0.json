@@ -1,0 +1,39 @@
+{"frames": {
+
+"rings":
+{
+	"frame": {"x":1,"y":1,"w":1210,"h":1211},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":31,"w":1210,"h":1211},
+	"sourceSize": {"w":1260,"h":1260},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"segment1":
+{
+	"frame": {"x":798,"y":1213,"w":589,"h":590},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":589,"h":590},
+	"sourceSize": {"w":589,"h":590},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"segment2":
+{
+	"frame": {"x":1,"y":1213,"w":795,"h":796},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":795,"h":796},
+	"sourceSize": {"w":795,"h":796},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wheel-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1388,"h":2010},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:79a7c54a3f0fcae9f6eeb36fe360ff79:ed26c81eeea46bb48b026c4e0a74b483:e4f46ca7cf5f1d2f348f27f27db5b59a$"
+}
+}

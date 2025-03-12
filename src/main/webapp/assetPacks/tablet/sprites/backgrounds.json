@@ -1,0 +1,36 @@
+{"frames": {
+
+"baseLightLandscape":
+{
+	"frame": {"x":903,"y":1,"w":1435,"h":810},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1435,"h":810},
+	"sourceSize": {"w":1440,"h":810}
+},
+"baseLightPortrait":
+{
+	"frame": {"x":1,"y":1,"w":900,"h":1553},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":47,"w":900,"h":1553},
+	"sourceSize": {"w":900,"h":1600}
+},
+"fadedPanelSides":
+{
+	"frame": {"x":1,"y":1556,"w":1169,"h":490},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":171,"w":1169,"h":490},
+	"sourceSize": {"w":1440,"h":810}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "backgrounds.jpg",
+	"format": "RGB888",
+	"size": {"w":1714,"h":2047},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dea96593422c58b06b9ba40e8ed02f79:c3957308ba6efe319aaba278018d2ec1:1853b4fdf62afd55089ec8487d069371$"
+}
+}

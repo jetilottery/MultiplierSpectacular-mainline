@@ -1,0 +1,21 @@
+{"frames": {
+
+"baseGlow":
+{
+	"frame": {"x":1,"y":1,"w":1960,"h":1910},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1960,"h":1910},
+	"sourceSize": {"w":1960,"h":1910},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "effects-0.jpg",
+	"format": "RGB888",
+	"size": {"w":1962,"h":1912},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f1abd62b95cbac3fc1a22af7ee9fb20:b4a3c0ccc3e5a5dc87a81ac74fc27184:e7d936bf13754d046b15b0fa27f69750$"
+}
+}

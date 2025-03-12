@@ -1,0 +1,13 @@
+
+megaMatchLayout.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+winLine
+  rotate: false
+  xy: 2, 2
+  size: 1007, 32
+  orig: 1007, 32
+  offset: 0, 0
+  index: -1

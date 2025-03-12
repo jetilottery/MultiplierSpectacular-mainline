@@ -1,0 +1,20 @@
+
+megaMatchArrows.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/megaArrowDull
+  rotate: true
+  xy: 2, 2
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+trans/megaArrowHighlight
+  rotate: false
+  xy: 2, 57
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1

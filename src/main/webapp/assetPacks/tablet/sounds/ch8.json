@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "ch8.ogg",
+    "ch8.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "Megamatch3Multipliers": [
+      1050,
+      4746.235827664399
+    ],
+    "NumberMatch": [
+      6100,
+      2905.1927437641734
+    ],
+    "YourNumberSelect_4": [
+      9150,
+      994.8752834467118
+    ]
+  }
+}

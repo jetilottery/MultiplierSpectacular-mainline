@@ -1,0 +1,759 @@
+
+stars.png
+size: 1680,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/IdleLuckyStar01
+  rotate: true
+  xy: 674, 335
+  size: 186, 168
+  orig: 200, 179
+  offset: 7, 5
+  index: -1
+trans/IdleLuckyStar02
+  rotate: true
+  xy: 2, 332
+  size: 189, 166
+  orig: 203, 178
+  offset: 7, 6
+  index: -1
+trans/IdleLuckyStar03
+  rotate: false
+  xy: 1354, 360
+  size: 189, 161
+  orig: 203, 173
+  offset: 7, 6
+  index: -1
+trans/IdleLuckyStar04
+  rotate: true
+  xy: 2, 141
+  size: 189, 166
+  orig: 203, 178
+  offset: 7, 6
+  index: -1
+trans/IdleLuckyStar05
+  rotate: true
+  xy: 1014, 336
+  size: 185, 168
+  orig: 199, 179
+  offset: 7, 5
+  index: -1
+trans/IdleYourStar01
+  rotate: true
+  xy: 674, 147
+  size: 186, 168
+  orig: 200, 179
+  offset: 7, 5
+  index: -1
+trans/IdleYourStar02
+  rotate: true
+  xy: 170, 332
+  size: 189, 166
+  orig: 203, 178
+  offset: 7, 6
+  index: -1
+trans/IdleYourStar03
+  rotate: true
+  xy: 1354, 169
+  size: 189, 161
+  orig: 203, 173
+  offset: 7, 6
+  index: -1
+trans/IdleYourStar04
+  rotate: true
+  xy: 170, 141
+  size: 189, 166
+  orig: 203, 178
+  offset: 7, 6
+  index: -1
+trans/IdleYourStar05
+  rotate: true
+  xy: 1014, 149
+  size: 185, 168
+  orig: 199, 179
+  offset: 7, 5
+  index: -1
+trans/Pixel
+  rotate: false
+  xy: 2, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+trans/baseLuckyStar01
+  rotate: true
+  xy: 844, 335
+  size: 186, 168
+  orig: 200, 179
+  offset: 7, 5
+  index: -1
+trans/baseYourStar01
+  rotate: true
+  xy: 844, 335
+  size: 186, 168
+  orig: 200, 179
+  offset: 7, 5
+  index: -1
+trans/baseLuckyStar02
+  rotate: true
+  xy: 338, 332
+  size: 189, 166
+  orig: 203, 178
+  offset: 7, 6
+  index: -1
+trans/baseYourStar02
+  rotate: true
+  xy: 338, 332
+  size: 189, 166
+  orig: 203, 178
+  offset: 7, 6
+  index: -1
+trans/baseLuckyStar03
+  rotate: false
+  xy: 1436, 6
+  size: 189, 161
+  orig: 203, 173
+  offset: 7, 6
+  index: -1
+trans/baseYourStar03
+  rotate: false
+  xy: 1436, 6
+  size: 189, 161
+  orig: 203, 173
+  offset: 7, 6
+  index: -1
+trans/baseLuckyStar04
+  rotate: true
+  xy: 338, 141
+  size: 189, 166
+  orig: 203, 178
+  offset: 7, 6
+  index: -1
+trans/baseYourStar04
+  rotate: true
+  xy: 338, 141
+  size: 189, 166
+  orig: 203, 178
+  offset: 7, 6
+  index: -1
+trans/baseLuckyStar05
+  rotate: true
+  xy: 1184, 336
+  size: 185, 168
+  orig: 194, 179
+  offset: 7, 5
+  index: -1
+trans/baseYourStar05
+  rotate: true
+  xy: 1184, 336
+  size: 185, 168
+  orig: 194, 179
+  offset: 7, 5
+  index: -1
+trans/luckyStar01_00000
+  rotate: false
+  xy: 598, 17
+  size: 144, 122
+  orig: 146, 124
+  offset: 1, 1
+  index: -1
+trans/luckyStar02_00000
+  rotate: false
+  xy: 2, 17
+  size: 147, 122
+  orig: 149, 124
+  offset: 1, 1
+  index: -1
+trans/luckyStar03_00000
+  rotate: false
+  xy: 1138, 30
+  size: 147, 117
+  orig: 149, 119
+  offset: 1, 1
+  index: -1
+trans/luckyStar04_00000
+  rotate: false
+  xy: 151, 17
+  size: 147, 122
+  orig: 149, 124
+  offset: 1, 1
+  index: -1
+trans/luckyStar05_00000
+  rotate: true
+  xy: 890, 2
+  size: 143, 122
+  orig: 145, 124
+  offset: 1, 1
+  index: -1
+trans/yourStar01Inactive
+  rotate: true
+  xy: 844, 147
+  size: 186, 168
+  orig: 198, 177
+  offset: 6, 4
+  index: -1
+trans/yourStar02Inactive
+  rotate: true
+  xy: 506, 332
+  size: 189, 166
+  orig: 201, 176
+  offset: 6, 5
+  index: -1
+trans/yourStar03Inactive
+  rotate: true
+  xy: 1517, 169
+  size: 189, 161
+  orig: 201, 171
+  offset: 6, 5
+  index: -1
+trans/yourStar04Inactive
+  rotate: true
+  xy: 506, 141
+  size: 189, 166
+  orig: 201, 176
+  offset: 6, 5
+  index: -1
+trans/yourStar05Inactive
+  rotate: true
+  xy: 1184, 149
+  size: 185, 168
+  orig: 192, 177
+  offset: 6, 4
+  index: -1
+trans/yourstar01_00000
+  rotate: false
+  xy: 744, 23
+  size: 144, 122
+  orig: 146, 124
+  offset: 1, 1
+  index: -1
+trans/yourstar02_00000
+  rotate: false
+  xy: 300, 17
+  size: 147, 122
+  orig: 149, 124
+  offset: 1, 1
+  index: -1
+trans/yourstar03_00000
+  rotate: false
+  xy: 1287, 30
+  size: 147, 117
+  orig: 149, 119
+  offset: 1, 1
+  index: -1
+trans/yourstar04_00000
+  rotate: false
+  xy: 449, 17
+  size: 147, 122
+  orig: 149, 124
+  offset: 1, 1
+  index: -1
+trans/yourstar05_00000
+  rotate: true
+  xy: 1014, 4
+  size: 143, 122
+  orig: 145, 124
+  offset: 1, 1
+  index: -1
+
+stars.jpg
+size: 1986,1929
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/dust01
+  rotate: false
+  xy: 1259, 1700
+  size: 233, 227
+  orig: 500, 500
+  offset: 143, 146
+  index: -1
+nonTrans/dust02
+  rotate: true
+  xy: 2, 1470
+  size: 251, 264
+  orig: 500, 500
+  offset: 140, 128
+  index: -1
+nonTrans/dust03
+  rotate: true
+  xy: 826, 1446
+  size: 272, 298
+  orig: 500, 500
+  offset: 135, 111
+  index: -1
+nonTrans/dust04
+  rotate: true
+  xy: 1126, 1417
+  size: 281, 328
+  orig: 500, 500
+  offset: 128, 96
+  index: -1
+nonTrans/dust05
+  rotate: true
+  xy: 1456, 1407
+  size: 288, 354
+  orig: 500, 500
+  offset: 122, 83
+  index: -1
+nonTrans/dust06
+  rotate: true
+  xy: 620, 1149
+  size: 295, 383
+  orig: 500, 500
+  offset: 117, 70
+  index: -1
+nonTrans/dust07
+  rotate: true
+  xy: 1005, 1104
+  size: 311, 397
+  orig: 500, 500
+  offset: 110, 57
+  index: -1
+nonTrans/dust08
+  rotate: true
+  xy: 338, 819
+  size: 328, 413
+  orig: 500, 500
+  offset: 103, 42
+  index: -1
+nonTrans/dust09
+  rotate: true
+  xy: 1143, 401
+  size: 345, 416
+  orig: 500, 500
+  offset: 96, 40
+  index: -1
+nonTrans/dust10
+  rotate: true
+  xy: 1561, 384
+  size: 362, 416
+  orig: 500, 500
+  offset: 90, 40
+  index: -1
+nonTrans/dust11
+  rotate: true
+  xy: 1140, 28
+  size: 371, 417
+  orig: 500, 500
+  offset: 83, 39
+  index: -1
+nonTrans/dust22
+  rotate: true
+  xy: 2, 478
+  size: 339, 423
+  orig: 500, 500
+  offset: 46, 36
+  index: -1
+nonTrans/dust23
+  rotate: true
+  xy: 1552, 748
+  size: 337, 401
+  orig: 500, 500
+  offset: 46, 35
+  index: -1
+nonTrans/dust24
+  rotate: true
+  xy: 1149, 751
+  size: 334, 401
+  orig: 500, 500
+  offset: 46, 35
+  index: -1
+nonTrans/dust25
+  rotate: true
+  xy: 753, 774
+  size: 328, 394
+  orig: 500, 500
+  offset: 46, 35
+  index: -1
+nonTrans/foilReveal01
+  rotate: false
+  xy: 839, 1720
+  size: 208, 207
+  orig: 500, 500
+  offset: 142, 146
+  index: -1
+nonTrans/foilReveal01B
+  rotate: false
+  xy: 1049, 1720
+  size: 208, 207
+  orig: 500, 500
+  offset: 142, 146
+  index: -1
+nonTrans/foilReveal02
+  rotate: false
+  xy: 423, 1721
+  size: 206, 206
+  orig: 500, 500
+  offset: 143, 147
+  index: -1
+nonTrans/foilReveal02B
+  rotate: false
+  xy: 631, 1721
+  size: 206, 206
+  orig: 500, 500
+  offset: 143, 147
+  index: -1
+nonTrans/foilReveal03
+  rotate: false
+  xy: 5, 1723
+  size: 207, 204
+  orig: 500, 500
+  offset: 144, 147
+  index: -1
+nonTrans/foilReveal03B
+  rotate: false
+  xy: 214, 1723
+  size: 207, 204
+  orig: 500, 500
+  offset: 144, 147
+  index: -1
+nonTrans/foilReveal04
+  rotate: false
+  xy: 1494, 1697
+  size: 244, 230
+  orig: 500, 500
+  offset: 126, 130
+  index: -1
+nonTrans/foilReveal04B
+  rotate: false
+  xy: 1740, 1697
+  size: 244, 230
+  orig: 500, 500
+  offset: 126, 130
+  index: -1
+nonTrans/foilReveal05
+  rotate: false
+  xy: 268, 1456
+  size: 277, 263
+  orig: 500, 500
+  offset: 110, 114
+  index: -1
+nonTrans/foilReveal05B
+  rotate: false
+  xy: 547, 1456
+  size: 277, 263
+  orig: 500, 500
+  offset: 110, 114
+  index: -1
+nonTrans/foilReveal06
+  rotate: false
+  xy: 2, 1163
+  size: 307, 291
+  orig: 500, 500
+  offset: 96, 101
+  index: -1
+nonTrans/foilReveal06B
+  rotate: false
+  xy: 311, 1163
+  size: 307, 291
+  orig: 500, 500
+  offset: 96, 101
+  index: -1
+nonTrans/foilReveal07
+  rotate: false
+  xy: 1404, 1087
+  size: 334, 318
+  orig: 500, 500
+  offset: 83, 89
+  index: -1
+nonTrans/foilReveal07B
+  rotate: false
+  xy: 2, 843
+  size: 334, 318
+  orig: 500, 500
+  offset: 83, 89
+  index: -1
+nonTrans/foilReveal08
+  rotate: false
+  xy: 427, 430
+  size: 356, 342
+  orig: 500, 500
+  offset: 73, 79
+  index: -1
+nonTrans/foilReveal08B
+  rotate: false
+  xy: 785, 430
+  size: 356, 342
+  orig: 500, 500
+  offset: 73, 79
+  index: -1
+nonTrans/foilReveal09
+  rotate: false
+  xy: 2, 114
+  size: 376, 362
+  orig: 500, 500
+  offset: 64, 71
+  index: -1
+nonTrans/foilReveal09B
+  rotate: false
+  xy: 380, 66
+  size: 376, 362
+  orig: 500, 500
+  offset: 64, 71
+  index: -1
+nonTrans/foilReveal10
+  rotate: true
+  xy: 758, 35
+  size: 393, 380
+  orig: 500, 500
+  offset: 57, 63
+  index: -1
+nonTrans/foilReveal10B
+  rotate: false
+  xy: 1559, 2
+  size: 393, 380
+  orig: 500, 500
+  offset: 57, 63
+  index: -1
+nonTrans/foilReveal22
+  rotate: false
+  xy: 2, 1926
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/foilReveal22B
+  rotate: false
+  xy: 2, 1926
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+stars2.jpg
+size: 1853,1844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/foilReveal13
+  rotate: true
+  xy: 1420, 1411
+  size: 431, 421
+  orig: 500, 500
+  offset: 41, 43
+  index: -1
+nonTrans/foilReveal13B
+  rotate: false
+  xy: 1420, 988
+  size: 431, 421
+  orig: 500, 500
+  offset: 41, 43
+  index: -1
+nonTrans/foilReveal14
+  rotate: true
+  xy: 906, 2
+  size: 441, 432
+  orig: 500, 500
+  offset: 36, 37
+  index: -1
+nonTrans/foilReveal14B
+  rotate: false
+  xy: 1340, 9
+  size: 441, 432
+  orig: 500, 500
+  offset: 36, 37
+  index: -1
+nonTrans/foilReveal15
+  rotate: true
+  xy: 462, 51
+  size: 451, 442
+  orig: 500, 500
+  offset: 31, 32
+  index: -1
+nonTrans/foilReveal15B
+  rotate: true
+  xy: 1374, 443
+  size: 451, 442
+  orig: 500, 500
+  offset: 31, 32
+  index: -1
+nonTrans/foilReveal16
+  rotate: false
+  xy: 914, 445
+  size: 458, 449
+  orig: 500, 500
+  offset: 28, 28
+  index: -1
+nonTrans/foilReveal16B
+  rotate: false
+  xy: 2, 53
+  size: 458, 449
+  orig: 500, 500
+  offset: 28, 28
+  index: -1
+nonTrans/foilReveal17
+  rotate: true
+  xy: 2, 504
+  size: 465, 454
+  orig: 500, 500
+  offset: 24, 24
+  index: -1
+nonTrans/foilReveal17B
+  rotate: true
+  xy: 458, 504
+  size: 465, 454
+  orig: 500, 500
+  offset: 24, 24
+  index: -1
+nonTrans/foilReveal18
+  rotate: true
+  xy: 956, 1370
+  size: 472, 462
+  orig: 500, 500
+  offset: 20, 21
+  index: -1
+nonTrans/foilReveal18B
+  rotate: true
+  xy: 956, 896
+  size: 472, 462
+  orig: 500, 500
+  offset: 20, 21
+  index: -1
+nonTrans/foilReveal19
+  rotate: true
+  xy: 487, 1366
+  size: 476, 467
+  orig: 500, 500
+  offset: 18, 18
+  index: -1
+nonTrans/foilReveal19B
+  rotate: true
+  xy: 2, 971
+  size: 476, 467
+  orig: 500, 500
+  offset: 18, 18
+  index: -1
+nonTrans/foilReveal21
+  rotate: false
+  xy: 2, 1449
+  size: 483, 393
+  orig: 500, 500
+  offset: 15, 16
+  index: -1
+nonTrans/foilReveal21B
+  rotate: false
+  xy: 471, 971
+  size: 483, 393
+  orig: 500, 500
+  offset: 15, 16
+  index: -1
+
+stars3.jpg
+size: 1710,1680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/dust12
+  rotate: false
+  xy: 906, 836
+  size: 384, 417
+  orig: 500, 500
+  offset: 71, 39
+  index: -1
+nonTrans/dust13
+  rotate: false
+  xy: 1229, 416
+  size: 397, 418
+  orig: 500, 500
+  offset: 59, 39
+  index: -1
+nonTrans/dust14
+  rotate: false
+  xy: 412, 415
+  size: 405, 419
+  orig: 500, 500
+  offset: 51, 39
+  index: -1
+nonTrans/dust15
+  rotate: false
+  xy: 1301, 1258
+  size: 407, 420
+  orig: 500, 500
+  offset: 49, 40
+  index: -1
+nonTrans/dust16
+  rotate: false
+  xy: 1301, 836
+  size: 407, 420
+  orig: 500, 500
+  offset: 49, 41
+  index: -1
+nonTrans/dust17
+  rotate: true
+  xy: 424, 5
+  size: 408, 418
+  orig: 500, 500
+  offset: 48, 43
+  index: -1
+nonTrans/dust18
+  rotate: false
+  xy: 819, 415
+  size: 408, 419
+  orig: 500, 500
+  offset: 47, 42
+  index: -1
+nonTrans/dust19
+  rotate: false
+  xy: 2, 413
+  size: 408, 421
+  orig: 500, 500
+  offset: 46, 40
+  index: -1
+nonTrans/dust20
+  rotate: false
+  xy: 484, 1255
+  size: 407, 423
+  orig: 500, 500
+  offset: 46, 38
+  index: -1
+nonTrans/dust21
+  rotate: false
+  xy: 893, 1255
+  size: 406, 423
+  orig: 500, 500
+  offset: 46, 37
+  index: -1
+nonTrans/foilReveal11
+  rotate: true
+  xy: 844, 6
+  size: 407, 397
+  orig: 500, 500
+  offset: 51, 55
+  index: -1
+nonTrans/foilReveal11B
+  rotate: true
+  xy: 1243, 7
+  size: 407, 397
+  orig: 500, 500
+  offset: 51, 55
+  index: -1
+nonTrans/foilReveal12
+  rotate: false
+  xy: 484, 844
+  size: 420, 409
+  orig: 500, 500
+  offset: 46, 49
+  index: -1
+nonTrans/foilReveal12B
+  rotate: false
+  xy: 2, 2
+  size: 420, 409
+  orig: 500, 500
+  offset: 46, 49
+  index: -1
+nonTrans/foilReveal20
+  rotate: false
+  xy: 2, 1258
+  size: 480, 420
+  orig: 500, 500
+  offset: 16, 20
+  index: -1
+nonTrans/foilReveal20B
+  rotate: false
+  xy: 2, 836
+  size: 480, 420
+  orig: 500, 500
+  offset: 16, 20
+  index: -1

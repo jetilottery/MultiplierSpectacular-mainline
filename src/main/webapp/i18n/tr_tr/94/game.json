@@ -1,0 +1,127 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "%{@minRTP}'dir",
+        "RTPrange": "%{@minRTP}'dir ila %{@maxRTP}'dir arasında",
+        "paybackTitle": "Beklenen Kazanç Oranı",
+        "paybackBody": "Bu oyun için Oyuncuya Geri Dönüş Ortalaması (RTP) {RTP}.",
+        "overallChances": "Oyun başına ödül kazanma şansı {odds} oyunda 1'dir.",
+        "prizeDivision": "Ödül Dağılımı",
+        "prizeRemaining": "Kalan Yaklaşık Ödül Sayısı",
+        "oddsPerPlay": "Oyun Başına Oranlar",
+        "subheading": "Bilet Tutarı: {ticketCost}",
+        "prizeLevel": "Ödül Seviyesi",
+        "description": "Açıklama",
+        "prizeValue": "Ödül Değeri",
+        "descriptionText1": "Sayı Eşleşme Kazancı",
+        "descriptionText2": "Bonus Kazancı"
+    },
+    "title": "Parlayan Yıldızlar Çarpanı",
+    "MenuCommand":
+    {
+        "price": "Fiyat",
+        "stake": "Yatırılan Miktar",
+        "howToPlay": "Yardım",
+        "paytable": "Ödeme Tablosu",
+        "close": "Kapat",
+        "audio":
+        {
+            "sound": "Ses",
+            "on": "Açık",
+            "off": "Kapalı"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Hata: ",
+        "genericErrorText": "İç kaynaklı bir hata oluştu. ÇIKIN ve oyunu yeniden başlatın."
+    },
+    "Game":
+    {
+        "footer_balance": "BAKİYE",
+        "footer_ticketCost": "OYUN TUTARI",
+        "ticketSelect_ticketCost": "OYUN TUTARI",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "OYNA "
+        },
+        "footer_win":
+        {
+            "BUY": "KAZANÇ",
+            "TRY": "DEMO KAZANCI"
+        },
+
+        "button_buy":
+        {
+            "BUY": "OYNA",
+            "TRY": "OYNA"
+        },
+        "button_try": "OYNA",
+        "button_continue": "DEVAM ET",
+        "button_moveToMoney": "GERÇEK OYUN MODUNA GEÇ",
+        "button_autoPlay": "TÜMÜNÜ AÇ",
+        "button_autoPlayBonus": "SERİ OYUN",
+        "button_start": "BAŞLA",
+        "button_stop": "DURDUR",
+        "button_playAgain":
+        {
+            "BUY": "TEKRAR OYNA",
+            "TRY": "TEKRAR DENE"
+        },
+        "button_tryAgain": "TEKRAR DENE",
+        "button_retry": "YENİDEN DENE",
+        "button_ok": "TAMAM",
+        "button_exit": "ÇIK",
+
+        "error_button_exit": "ÇIK",
+        "error_title": "HATA",
+
+        "message_nonWin": "TEKRAR\nDENEYİN",
+        "message_win":
+        {
+            "BUY": "TEBRİKLER!\nKAZANCIN",
+            "TRY": "TEBRİKLER!\nKAZANCIN"
+        },
+
+        "howToPlay": "OYUN KURALLARI",
+        "page1Title": "",
+        "page2Title": "MEGAMATCH BONUSU",
+        "page3Title": "HYPERSPIN BONUSU",
+
+        "page1Part1": "Oynamak istediğiniz bilet sayısını ve bilet tutarını seçin ve başlamak için OYNA'ya basın.",
+        "page1Part2": "BİLETLERİNİZİ KAZANAN NUMARALARLA eşleştirin ve ödülü kazanın.",
+        "page1Part3": "İlgili ödülü anında kazanmak için bir Çarpan Sembolü açın.",
+        "page1Part4": "Gizemli Bonus oyununu başlatmak için bir Altın Para Sembolünü açın.",
+        "page1Part5": "Megamatch ya da Hyperspin Bonusunu açmak için Altın Para ile yazı tura atılır.",
+
+        "page2Part1": "5 sıranın tamamını açın.",
+        "page2Part2": "Kazanmak için herhangi bir sırada eşleşen 3 çarpan miktarı bulun.",
+        "page2Part3": "Birden fazla sıra kazanabilir!",
+        "page2Part4": "Oyunu başlatan bilet tutarını, toplam biriken çarpanlarla katlanmış olarak kazanın.",
+
+        "page3Part1": "Başlamak için OYNA'ya basın.",
+        "page3Part2": "Açılan çarpanlar yukarıdaki alanda toplanır.",
+        "page3Part3": "Dış çark TOPLA üzerine gelene kadar döndürmeye devam edin.",
+        "page3Part4": "Oyunu başlatan bilet tutarını, toplam biriken çarpanlarla katlanmış olarak kazanın.",
+
+        "winUpToText": "X'E KADAR KAZAN",
+        "winUpToValue": "{0}",
+
+        "yourNumbers": "BİLETLERİN",
+        "luckyNumbers": "KAZANAN NUMARALAR",
+        "bonusWin": "TOPLAM BONUS KAZANCI",
+
+        "baseGameInfo": "GİZEMLİ BONUSU BAŞLATMAK İÇİN ALTIN PARAYI BUL.\nOLASI 2 BONUS OYUNUDAN 1'İNİ OYNAYIN!",
+        "bonusGameInfo": "KAZANMAK İÇİN HERHANGİ BİR SIRADA 3'LÜ EŞLEŞTİRME YAPIN!",
+        "wheelGameInfo": "TOPLA'YA GELENE KADAR DÖNDÜRÜN",
+
+        "collect": "TOPLA",
+        "spinButton": "OYNA",
+
+        "tickets": "BİLET SAYISI",
+        "totalCost": "TOPLAM TUTAR",
+        "multiplier": "ÇARPAN"
+    }
+}

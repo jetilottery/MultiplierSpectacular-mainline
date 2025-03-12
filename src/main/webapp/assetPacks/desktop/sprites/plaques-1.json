@@ -1,0 +1,77 @@
+{"frames": {
+
+"landscape_endOfGameMessageNoWinBackground":
+{
+	"frame": {"x":3,"y":1607,"w":740,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":0,"w":740,"h":380},
+	"sourceSize": {"w":810,"h":380}
+},
+"landscape_timeOutMessageBackground":
+{
+	"frame": {"x":907,"y":3,"w":850,"h":588},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":588},
+	"sourceSize": {"w":850,"h":588}
+},
+"loseMessageLand":
+{
+	"frame": {"x":3,"y":1607,"w":740,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":0,"w":740,"h":380},
+	"sourceSize": {"w":810,"h":380}
+},
+"loseMessagePort":
+{
+	"frame": {"x":3,"y":1607,"w":740,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":0,"w":740,"h":380},
+	"sourceSize": {"w":810,"h":380}
+},
+"portrait_endOfGameMessageNoWinBackground":
+{
+	"frame": {"x":3,"y":1607,"w":740,"h":380},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":0,"w":740,"h":380},
+	"sourceSize": {"w":810,"h":380}
+},
+"portrait_timeOutMessageBackground":
+{
+	"frame": {"x":907,"y":3,"w":850,"h":588},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":850,"h":588},
+	"sourceSize": {"w":850,"h":588}
+},
+"portrait_timeOutMessageOverlay":
+{
+	"frame": {"x":907,"y":595,"w":810,"h":1440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440}
+},
+"portrait_tutorialOverlay":
+{
+	"frame": {"x":3,"y":3,"w":900,"h":1600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":1600},
+	"sourceSize": {"w":900,"h":1600}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1760,"h":2038},
+	"scale": "1",
+	"related_multi_packs": [ "plaques-0.json", "plaques-2.json", "plaques-3.json", "plaques-4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:7e4bd6bff728d0321910c1875213b82f:5469f1ce9d4fba64e7fc31bd1dd7e939:e72ff51ee83940c0e8a35173f676d066$"
+}
+}

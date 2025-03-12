@@ -1,0 +1,681 @@
+
+MM_MasterPopUps.png
+size: 745,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/Pixel
+  rotate: false
+  xy: 742, 523
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+trans/multiplier01
+  rotate: false
+  xy: 2, 2
+  size: 738, 522
+  orig: 853, 576
+  offset: 38, 21
+  index: -1
+
+MM_MasterPopUps.jpg
+size: 2021,1972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/foilReveal01
+  rotate: false
+  xy: 1811, 1584
+  size: 208, 207
+  orig: 500, 500
+  offset: 142, 146
+  index: -1
+nonTrans/foilReveal02
+  rotate: false
+  xy: 1383, 1585
+  size: 206, 206
+  orig: 500, 500
+  offset: 143, 147
+  index: -1
+nonTrans/foilReveal03
+  rotate: false
+  xy: 956, 1603
+  size: 207, 204
+  orig: 500, 500
+  offset: 144, 147
+  index: -1
+nonTrans/foilReveal04
+  rotate: true
+  xy: 714, 1387
+  size: 244, 230
+  orig: 500, 500
+  offset: 126, 130
+  index: -1
+nonTrans/foilReveal05
+  rotate: false
+  xy: 1403, 1078
+  size: 277, 263
+  orig: 500, 500
+  offset: 110, 114
+  index: -1
+nonTrans/foilReveal06
+  rotate: false
+  xy: 586, 808
+  size: 307, 291
+  orig: 500, 500
+  offset: 96, 101
+  index: -1
+nonTrans/foilReveal07
+  rotate: false
+  xy: 1543, 749
+  size: 334, 318
+  orig: 500, 500
+  offset: 83, 89
+  index: -1
+nonTrans/foilReveal08
+  rotate: false
+  xy: 694, 442
+  size: 356, 342
+  orig: 500, 500
+  offset: 73, 79
+  index: -1
+nonTrans/foilReveal09
+  rotate: false
+  xy: 2, 105
+  size: 376, 362
+  orig: 500, 500
+  offset: 64, 71
+  index: -1
+nonTrans/foilReveal10
+  rotate: false
+  xy: 1149, 7
+  size: 393, 380
+  orig: 500, 500
+  offset: 57, 63
+  index: -1
+nonTrans/foilReveal22
+  rotate: false
+  xy: 2, 1969
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+nonTrans/starsLarge0000
+  rotate: false
+  xy: 2, 1712
+  size: 179, 178
+  orig: 500, 500
+  offset: 151, 160
+  index: -1
+nonTrans/starsLarge0001
+  rotate: false
+  xy: 183, 1674
+  size: 178, 178
+  orig: 500, 500
+  offset: 151, 160
+  index: -1
+nonTrans/starsLarge0002
+  rotate: true
+  xy: 1569, 1793
+  size: 177, 178
+  orig: 500, 500
+  offset: 152, 160
+  index: -1
+nonTrans/starsLarge0003
+  rotate: false
+  xy: 1391, 1794
+  size: 176, 176
+  orig: 500, 500
+  offset: 152, 161
+  index: -1
+nonTrans/starsLarge0004
+  rotate: false
+  xy: 1213, 1795
+  size: 176, 175
+  orig: 500, 500
+  offset: 152, 162
+  index: -1
+nonTrans/starsLarge0005
+  rotate: false
+  xy: 1749, 1793
+  size: 182, 177
+  orig: 500, 500
+  offset: 150, 159
+  index: -1
+nonTrans/starsLarge0006
+  rotate: false
+  xy: 550, 1639
+  size: 199, 188
+  orig: 500, 500
+  offset: 142, 150
+  index: -1
+nonTrans/starsLarge0007
+  rotate: false
+  xy: 1165, 1589
+  size: 216, 204
+  orig: 500, 500
+  offset: 133, 142
+  index: -1
+nonTrans/starsLarge0008
+  rotate: false
+  xy: 235, 1449
+  size: 233, 220
+  orig: 500, 500
+  offset: 125, 135
+  index: -1
+nonTrans/starsLarge0009
+  rotate: false
+  xy: 1200, 1348
+  size: 248, 235
+  orig: 500, 500
+  offset: 118, 128
+  index: -1
+nonTrans/starsLarge0010
+  rotate: false
+  xy: 289, 1161
+  size: 263, 250
+  orig: 500, 500
+  offset: 110, 121
+  index: -1
+nonTrans/starsLarge0011
+  rotate: false
+  xy: 1682, 1069
+  size: 277, 264
+  orig: 500, 500
+  offset: 104, 114
+  index: -1
+nonTrans/starsLarge0012
+  rotate: true
+  xy: 2, 906
+  size: 291, 277
+  orig: 500, 500
+  offset: 97, 108
+  index: -1
+nonTrans/starsLarge0013
+  rotate: false
+  xy: 281, 843
+  size: 303, 290
+  orig: 500, 500
+  offset: 91, 102
+  index: -1
+nonTrans/starsLarge0014
+  rotate: false
+  xy: 895, 786
+  size: 316, 303
+  orig: 500, 500
+  offset: 85, 96
+  index: -1
+nonTrans/starsLarge0015
+  rotate: false
+  xy: 1213, 761
+  size: 328, 315
+  orig: 500, 500
+  offset: 79, 91
+  index: -1
+nonTrans/starsLarge0016
+  rotate: false
+  xy: 2, 514
+  size: 339, 327
+  orig: 500, 500
+  offset: 74, 85
+  index: -1
+nonTrans/starsLarge0017
+  rotate: false
+  xy: 343, 469
+  size: 349, 337
+  orig: 500, 500
+  offset: 69, 81
+  index: -1
+nonTrans/starsLarge0018
+  rotate: false
+  xy: 1052, 411
+  size: 360, 348
+  orig: 500, 500
+  offset: 64, 76
+  index: -1
+nonTrans/starsLarge0019
+  rotate: false
+  xy: 1414, 389
+  size: 369, 358
+  orig: 500, 500
+  offset: 60, 72
+  index: -1
+nonTrans/starsLarge0020
+  rotate: false
+  xy: 380, 73
+  size: 378, 367
+  orig: 500, 500
+  offset: 56, 68
+  index: -1
+nonTrans/starsLarge0021
+  rotate: false
+  xy: 760, 33
+  size: 387, 376
+  orig: 500, 500
+  offset: 52, 64
+  index: -1
+nonTrans/starsLarge0022
+  rotate: false
+  xy: 1544, 2
+  size: 395, 385
+  orig: 500, 500
+  offset: 48, 60
+  index: -1
+nonTrans/starsSmall0000
+  rotate: false
+  xy: 362, 1854
+  size: 117, 116
+  orig: 400, 400
+  offset: 145, 133
+  index: -1
+nonTrans/starsSmall0001
+  rotate: false
+  xy: 245, 1855
+  size: 115, 115
+  orig: 400, 400
+  offset: 146, 134
+  index: -1
+nonTrans/starsSmall0002
+  rotate: true
+  xy: 481, 1851
+  size: 119, 121
+  orig: 400, 400
+  offset: 143, 135
+  index: -1
+nonTrans/starsSmall0003
+  rotate: false
+  xy: 899, 1828
+  size: 144, 142
+  orig: 400, 400
+  offset: 130, 126
+  index: -1
+nonTrans/starsSmall0004
+  rotate: false
+  xy: 1045, 1809
+  size: 166, 161
+  orig: 400, 400
+  offset: 119, 118
+  index: -1
+nonTrans/starsSmall0005
+  rotate: false
+  xy: 363, 1671
+  size: 185, 178
+  orig: 400, 400
+  offset: 109, 110
+  index: -1
+nonTrans/starsSmall0006
+  rotate: false
+  xy: 751, 1633
+  size: 203, 193
+  orig: 400, 400
+  offset: 100, 103
+  index: -1
+nonTrans/starsSmall0007
+  rotate: false
+  xy: 1591, 1585
+  size: 218, 206
+  orig: 400, 400
+  offset: 92, 97
+  index: -1
+nonTrans/starsSmall0008
+  rotate: false
+  xy: 2, 1456
+  size: 231, 216
+  orig: 400, 400
+  offset: 86, 92
+  index: -1
+nonTrans/starsSmall0009
+  rotate: false
+  xy: 470, 1413
+  size: 242, 224
+  orig: 400, 400
+  offset: 80, 88
+  index: -1
+nonTrans/starsSmall0010
+  rotate: false
+  xy: 946, 1354
+  size: 252, 233
+  orig: 400, 400
+  offset: 75, 84
+  index: -1
+nonTrans/starsSmall0011
+  rotate: false
+  xy: 1450, 1343
+  size: 260, 240
+  orig: 400, 400
+  offset: 71, 81
+  index: -1
+nonTrans/starsSmall0012
+  rotate: false
+  xy: 1712, 1335
+  size: 268, 247
+  orig: 400, 400
+  offset: 67, 78
+  index: -1
+nonTrans/starsSmall0013
+  rotate: false
+  xy: 845, 1101
+  size: 274, 251
+  orig: 400, 400
+  offset: 63, 76
+  index: -1
+nonTrans/starsSmall0014
+  rotate: false
+  xy: 1121, 1091
+  size: 280, 255
+  orig: 400, 400
+  offset: 60, 74
+  index: -1
+nonTrans/starsSmall0015
+  rotate: false
+  xy: 2, 1199
+  size: 285, 248
+  orig: 400, 400
+  offset: 58, 72
+  index: -1
+nonTrans/starsSmall0016
+  rotate: false
+  xy: 554, 1135
+  size: 289, 250
+  orig: 400, 400
+  offset: 56, 71
+  index: -1
+nonTrans/starsSmall0017
+  rotate: false
+  xy: 604, 1829
+  size: 293, 141
+  orig: 400, 400
+  offset: 54, 70
+  index: -1
+nonTrans/starsSmall0018
+  rotate: false
+  xy: 5, 1892
+  size: 238, 78
+  orig: 400, 400
+  offset: 53, 103
+  index: -1
+
+MM_MasterPopUps2.jpg
+size: 1798,1707
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/foilReveal11
+  rotate: false
+  xy: 892, 1308
+  size: 407, 397
+  orig: 500, 500
+  offset: 51, 55
+  index: -1
+nonTrans/foilReveal12
+  rotate: false
+  xy: 2, 901
+  size: 420, 409
+  orig: 500, 500
+  offset: 46, 49
+  index: -1
+nonTrans/foilReveal13
+  rotate: false
+  xy: 2, 478
+  size: 431, 421
+  orig: 500, 500
+  offset: 41, 43
+  index: -1
+nonTrans/foilReveal14
+  rotate: false
+  xy: 1303, 448
+  size: 441, 432
+  orig: 500, 500
+  offset: 36, 37
+  index: -1
+nonTrans/foilReveal15
+  rotate: false
+  xy: 892, 4
+  size: 451, 442
+  orig: 500, 500
+  offset: 31, 32
+  index: -1
+nonTrans/foilReveal20
+  rotate: false
+  xy: 1269, 882
+  size: 480, 420
+  orig: 500, 500
+  offset: 16, 20
+  index: -1
+nonTrans/foilReveal21
+  rotate: false
+  xy: 2, 1312
+  size: 483, 393
+  orig: 500, 500
+  offset: 15, 16
+  index: -1
+nonTrans/starsLarge0023
+  rotate: false
+  xy: 487, 1312
+  size: 403, 393
+  orig: 500, 500
+  offset: 44, 56
+  index: -1
+nonTrans/starsLarge0024
+  rotate: false
+  xy: 1301, 1304
+  size: 410, 401
+  orig: 500, 500
+  offset: 41, 52
+  index: -1
+nonTrans/starsLarge0025
+  rotate: false
+  xy: 424, 901
+  size: 417, 409
+  orig: 500, 500
+  offset: 38, 48
+  index: -1
+nonTrans/starsLarge0026
+  rotate: false
+  xy: 843, 891
+  size: 424, 415
+  orig: 500, 500
+  offset: 35, 45
+  index: -1
+nonTrans/starsLarge0027
+  rotate: false
+  xy: 435, 468
+  size: 429, 421
+  orig: 500, 500
+  offset: 33, 42
+  index: -1
+nonTrans/starsLarge0028
+  rotate: false
+  xy: 866, 453
+  size: 435, 427
+  orig: 500, 500
+  offset: 30, 39
+  index: -1
+nonTrans/starsLarge0029
+  rotate: false
+  xy: 2, 34
+  size: 440, 432
+  orig: 500, 500
+  offset: 28, 36
+  index: -1
+nonTrans/starsLarge0030
+  rotate: false
+  xy: 444, 12
+  size: 446, 439
+  orig: 500, 500
+  offset: 25, 33
+  index: -1
+nonTrans/starsLarge0031
+  rotate: false
+  xy: 1345, 2
+  size: 451, 444
+  orig: 500, 500
+  offset: 23, 31
+  index: -1
+
+MM_MasterPopUps3.jpg
+size: 1962,1894
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/foilReveal16
+  rotate: false
+  xy: 2, 1443
+  size: 458, 449
+  orig: 500, 500
+  offset: 28, 28
+  index: -1
+nonTrans/foilReveal17
+  rotate: false
+  xy: 919, 1438
+  size: 465, 454
+  orig: 500, 500
+  offset: 24, 24
+  index: -1
+nonTrans/foilReveal18
+  rotate: false
+  xy: 938, 974
+  size: 472, 462
+  orig: 500, 500
+  offset: 20, 21
+  index: -1
+nonTrans/foilReveal19
+  rotate: false
+  xy: 2, 506
+  size: 476, 467
+  orig: 500, 500
+  offset: 18, 18
+  index: -1
+nonTrans/starsLarge0032
+  rotate: false
+  xy: 462, 1443
+  size: 455, 449
+  orig: 500, 500
+  offset: 21, 28
+  index: -1
+nonTrans/starsLarge0033
+  rotate: false
+  xy: 1386, 1438
+  size: 460, 454
+  orig: 500, 500
+  offset: 19, 26
+  index: -1
+nonTrans/starsLarge0034
+  rotate: false
+  xy: 2, 983
+  size: 464, 458
+  orig: 500, 500
+  offset: 17, 24
+  index: -1
+nonTrans/starsLarge0035
+  rotate: false
+  xy: 468, 975
+  size: 468, 461
+  orig: 500, 500
+  offset: 15, 22
+  index: -1
+nonTrans/starsLarge0036
+  rotate: false
+  xy: 1412, 970
+  size: 472, 466
+  orig: 500, 500
+  offset: 13, 19
+  index: -1
+nonTrans/starsLarge0037
+  rotate: false
+  xy: 480, 504
+  size: 475, 468
+  orig: 500, 500
+  offset: 12, 17
+  index: -1
+nonTrans/starsLarge0038
+  rotate: false
+  xy: 957, 496
+  size: 479, 472
+  orig: 500, 500
+  offset: 10, 15
+  index: -1
+nonTrans/starsLarge0039
+  rotate: false
+  xy: 1438, 492
+  size: 481, 476
+  orig: 500, 500
+  offset: 9, 13
+  index: -1
+nonTrans/starsLarge0040
+  rotate: false
+  xy: 2, 23
+  size: 484, 479
+  orig: 500, 500
+  offset: 8, 12
+  index: -1
+nonTrans/starsLarge0041
+  rotate: false
+  xy: 488, 11
+  size: 487, 483
+  orig: 500, 500
+  offset: 6, 10
+  index: -1
+nonTrans/starsLarge0042
+  rotate: false
+  xy: 977, 4
+  size: 490, 486
+  orig: 500, 500
+  offset: 5, 8
+  index: -1
+nonTrans/starsLarge0043
+  rotate: false
+  xy: 1469, 2
+  size: 491, 488
+  orig: 500, 500
+  offset: 5, 7
+  index: -1
+
+MM_MasterPopUps4.jpg
+size: 1501,996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/starsLarge0044
+  rotate: false
+  xy: 504, 5
+  size: 492, 490
+  orig: 500, 500
+  offset: 5, 5
+  index: -1
+nonTrans/starsLarge0045
+  rotate: false
+  xy: 1004, 4
+  size: 494, 492
+  orig: 500, 500
+  offset: 4, 4
+  index: -1
+nonTrans/starsLarge0046
+  rotate: false
+  xy: 1004, 498
+  size: 495, 496
+  orig: 500, 500
+  offset: 4, 2
+  index: -1
+nonTrans/starsLarge0047
+  rotate: true
+  xy: 504, 497
+  size: 497, 498
+  orig: 500, 500
+  offset: 3, 1
+  index: -1
+nonTrans/starsLarge0048
+  rotate: true
+  xy: 2, 495
+  size: 499, 500
+  orig: 500, 500
+  offset: 1, 0
+  index: -1
+nonTrans/starsLarge0049
+  rotate: false
+  xy: 2, 2
+  size: 500, 491
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

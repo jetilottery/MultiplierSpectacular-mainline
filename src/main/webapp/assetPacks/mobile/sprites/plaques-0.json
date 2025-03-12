@@ -1,0 +1,85 @@
+{"frames": {
+
+"landscape_EndOfGameMessageOverlay":
+{
+	"frame": {"x":3,"y":1190,"w":907,"h":810},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":907,"h":810},
+	"sourceSize": {"w":1440,"h":810}
+},
+"landscape_endOfGameMessageWinBackground":
+{
+	"frame": {"x":914,"y":1607,"w":925,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":925,"h":400},
+	"sourceSize": {"w":925,"h":400}
+},
+"landscape_winAllMessageBackground":
+{
+	"frame": {"x":914,"y":1607,"w":925,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":925,"h":400},
+	"sourceSize": {"w":925,"h":400}
+},
+"portrait_endOfGameMessageWinBackground":
+{
+	"frame": {"x":914,"y":1607,"w":925,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":925,"h":400},
+	"sourceSize": {"w":925,"h":400}
+},
+"portrait_tutorialBackground":
+{
+	"frame": {"x":3,"y":3,"w":936,"h":1183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":936,"h":1183},
+	"sourceSize": {"w":936,"h":1183}
+},
+"portrait_tutorialBackgroundRays":
+{
+	"frame": {"x":943,"y":3,"w":900,"h":1600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":1600},
+	"sourceSize": {"w":900,"h":1600}
+},
+"portrait_winAllMessageBackground":
+{
+	"frame": {"x":914,"y":1607,"w":925,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":925,"h":400},
+	"sourceSize": {"w":925,"h":400}
+},
+"winMessageLand":
+{
+	"frame": {"x":914,"y":1607,"w":925,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":925,"h":400},
+	"sourceSize": {"w":925,"h":400}
+},
+"winMessagePort":
+{
+	"frame": {"x":914,"y":1607,"w":925,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":925,"h":400},
+	"sourceSize": {"w":925,"h":400}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1846,"h":2010},
+	"scale": "1",
+	"related_multi_packs": [ "plaques-1.json", "plaques-2.json", "plaques-3.json", "plaques-4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:7e4bd6bff728d0321910c1875213b82f:5469f1ce9d4fba64e7fc31bd1dd7e939:e72ff51ee83940c0e8a35173f676d066$"
+}
+}

@@ -1,0 +1,127 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Payback esperado",
+        "paybackBody": "Para este jogo, o pagamento a longo prazo, teoricamente esperado, é {RTP}.",
+        "overallChances": "Há uma hipótese global de 1 em {odds} de ganhar um prémio em cada jogo",
+        "prizeDivision": "Divisão de Prémios",
+        "prizeRemaining": "Prémios aproximados remanescentes",
+        "oddsPerPlay": "Odds Per Play",
+        "subheading": "Custo do bilhete: {ticketCost}",
+        "prizeLevel": "Nível do Prémio",
+        "description": "Descrição",
+        "prizeValue": "Valor do Prémio",
+        "descriptionText1": "Número Match Win",
+        "descriptionText2": "Bonus Win"
+    },
+    "title": "Multiplicador Espetacular",
+    "MenuCommand":
+    {
+        "price": "Preço",
+        "stake": "Parcela",
+        "howToPlay": "Ajuda",
+        "paytable": "Tabela de prémios",
+        "close": "Fechar",
+        "audio":
+        {
+            "sound": "Som",
+            "on": "Ligado",
+            "off": "Desligado"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Erro: ",
+        "genericErrorText": "Ocorreu um erro interno. SAIR e relançar o jogo."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "CUSTO TOTAL",
+        "ticketSelect_ticketCost": "CUSTO DO BILHETE",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "TENTAR "
+        },
+        "footer_win":
+        {
+            "BUY": "GANHAR",
+            "TRY": "GANHO NA DEMO"
+        },
+
+        "button_buy":
+        {
+            "BUY": "COMPRAR",
+            "TRY": "TENTAR"
+        },
+        "button_try": "TENTAR",
+        "button_continue": "CONTINUAR",
+        "button_moveToMoney": "AVANÇAR PARA DINHEIRO",
+        "button_autoPlay": "REVEAL ALL",
+        "button_autoPlayBonus": "JOGO AUTOMÁTICO",
+        "button_start": "COMEÇAR",
+        "button_stop": "PARAR",
+        "button_playAgain":
+        {
+            "BUY": "CONTINUAR JOGO",
+            "TRY": "TENTAR NOVAMENTE"
+        },
+        "button_tryAgain": "TENTAR NOVAMENTE",
+        "button_retry": "TENTAR NOVAMENTE",
+        "button_ok": "OK",
+        "button_exit": "SAIR",
+
+        "error_button_exit": "SAIR",
+        "error_title": "ERRO",
+
+        "message_nonWin": "MELHOR SORTE\nPRÓXIMA VEZ",
+        "message_win":
+        {
+            "BUY": "PARABÉNS!\nGANHOU",
+            "TRY": "MUITO OBRIGADO por JOGAR\nPODERIA TER GANHO"
+        },
+
+        "howToPlay": "COMO JOGAR",
+        "page1Title": "",
+        "page2Title": "BÓNUS MEGAMATCH",
+        "page3Title": "BÓNUS HYPERSPIN",
+
+        "page1Part1": "Seleccione o número de bilhetes para jogar, o custo por bilhete & Clique em COMPRAR para começar.",
+        "page1Part2": "Faça corresponder os SEUS BILHETES aos NÚMEROS DE SORTE e ganhe o prémio associado",
+        "page1Part3": "Revele um Símbolo Multiplicador para ganhar o prémio correspondente instantaneamente.",
+        "page1Part4": "Revele um Símbolo de Moeda de Ouro para desencadear um jogo de Bónus Mistério.",
+        "page1Part5": "A Moeda de Ouro vira para revelar um Bónus Megamatch ou Hyperspin.",
+
+        "page2Part1": "Revelar todas as 5 filas",
+        "page2Part2": "Encontrar 3 montantes multiplicadores correspondentes em qualquer fila para ganhar.",
+        "page2Part3": "Várias filas podem ser ganhas!",
+        "page2Part4": "Win the triggering ticket cost multiplied by the total accumulated multipliers.",
+
+        "page3Part1": "Prima SPIN para tocar.",
+        "page3Part2": "Os multiplicadores revelados são acumulados no campo acima.",
+        "page3Part3": "Continue a rodar até o anel exterior aterrar em RECOLHER.",
+        "page3Part4": "Ganhar o custo do bilhete desencadeador multiplicado pelo total dos multiplicadores acumulados.",
+
+        "winUpToText": "GANHE ATÉ",
+        "winUpToValue": "{0}!",
+
+        "yourNumbers": "OS SEUS BILHETES",
+        "luckyNumbers": "NÚMEROS DA SORTE",
+        "bonusWin": "PRÉMIO TOTAL DE BÓNUS GANHO",
+
+        "baseGameInfo": "ENCONTRE A MOEDA DE OURO PARA DESENCADEAR O BÓNUS MISTÉRIO.\nJOQUE 1 DE 2 JOGOS BÓNUS POSSÍVEIS!",
+        "bonusGameInfo": "COMBINE 3 DE UM TIPO EM QUALQUER FILA PARA GANHAR!",
+        "wheelGameInfo": "VOLTE A RODAR ATÉ À ATERRAGEM EM RECOLHER",
+
+        "collect": "RECOLHER",
+        "spinButton": "RODAR",
+
+        "tickets": "BILHETES",
+        "totalCost": "CUSTO TOTAL",
+        "multiplier": "MULTIPLICADOR"
+    }
+}

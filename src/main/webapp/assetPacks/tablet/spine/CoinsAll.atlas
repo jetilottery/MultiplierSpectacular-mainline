@@ -1,0 +1,1320 @@
+
+CoinsAll.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/Pixel
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+CoinsAll2.png
+size: 1517,1160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/edge/coinGlow
+  rotate: false
+  xy: 2, 276
+  size: 880, 882
+  orig: 900, 901
+  offset: 11, 9
+  index: -1
+trans/edge/edge1
+  rotate: false
+  xy: 884, 2
+  size: 528, 523
+  orig: 633, 633
+  offset: 52, 55
+  index: -1
+trans/edge/edge2
+  rotate: false
+  xy: 884, 527
+  size: 631, 631
+  orig: 633, 633
+  offset: 1, 1
+  index: -1
+
+CoinsAll3.png
+size: 2005,1902
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/coinMasks/MegaCoin04M
+  rotate: false
+  xy: 2, 567
+  size: 495, 339
+  orig: 497, 341
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin05M
+  rotate: false
+  xy: 2, 1234
+  size: 497, 248
+  orig: 499, 250
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin06M
+  rotate: false
+  xy: 2, 1682
+  size: 497, 135
+  orig: 499, 137
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin07M
+  rotate: false
+  xy: 1005, 1788
+  size: 497, 112
+  orig: 499, 114
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin08M
+  rotate: false
+  xy: 1006, 1382
+  size: 497, 228
+  orig: 499, 230
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin09M
+  rotate: false
+  xy: 2, 908
+  size: 495, 324
+  orig: 497, 326
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin10M
+  rotate: false
+  xy: 997, 26
+  size: 491, 397
+  orig: 493, 399
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin16M
+  rotate: false
+  xy: 2, 185
+  size: 495, 380
+  orig: 497, 382
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin17M
+  rotate: false
+  xy: 499, 862
+  size: 499, 300
+  orig: 501, 302
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin18M
+  rotate: false
+  xy: 2, 1484
+  size: 500, 196
+  orig: 502, 198
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin19M
+  rotate: false
+  xy: 2, 1819
+  size: 499, 81
+  orig: 501, 83
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin20M
+  rotate: false
+  xy: 1001, 1612
+  size: 500, 174
+  orig: 502, 176
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin21M
+  rotate: false
+  xy: 1001, 1097
+  size: 499, 283
+  orig: 501, 285
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin22M
+  rotate: false
+  xy: 997, 425
+  size: 495, 368
+  orig: 497, 370
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper04M
+  rotate: false
+  xy: 499, 521
+  size: 496, 339
+  orig: 498, 341
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin04M
+  rotate: false
+  xy: 499, 521
+  size: 496, 339
+  orig: 498, 341
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper05M
+  rotate: false
+  xy: 501, 1164
+  size: 498, 248
+  orig: 500, 250
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin05M
+  rotate: false
+  xy: 501, 1164
+  size: 498, 248
+  orig: 500, 250
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper06M
+  rotate: false
+  xy: 501, 1682
+  size: 498, 135
+  orig: 500, 137
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin06M
+  rotate: false
+  xy: 501, 1682
+  size: 498, 135
+  orig: 500, 137
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper07M
+  rotate: false
+  xy: 1504, 1788
+  size: 498, 112
+  orig: 500, 114
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin07M
+  rotate: false
+  xy: 1504, 1788
+  size: 498, 112
+  orig: 500, 114
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper08M
+  rotate: false
+  xy: 1505, 1382
+  size: 498, 228
+  orig: 500, 230
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin08M
+  rotate: false
+  xy: 1505, 1382
+  size: 498, 228
+  orig: 500, 230
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper09M
+  rotate: false
+  xy: 1502, 771
+  size: 496, 324
+  orig: 498, 326
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin09M
+  rotate: false
+  xy: 1502, 771
+  size: 496, 324
+  orig: 498, 326
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper10M
+  rotate: false
+  xy: 1490, 2
+  size: 492, 397
+  orig: 494, 399
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin10M
+  rotate: false
+  xy: 1490, 2
+  size: 492, 397
+  orig: 494, 399
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper16M
+  rotate: false
+  xy: 499, 139
+  size: 496, 380
+  orig: 498, 382
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin16M
+  rotate: false
+  xy: 499, 139
+  size: 496, 380
+  orig: 498, 382
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper17M
+  rotate: false
+  xy: 1000, 795
+  size: 500, 300
+  orig: 502, 302
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin17M
+  rotate: false
+  xy: 1000, 795
+  size: 500, 300
+  orig: 502, 302
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper18M
+  rotate: false
+  xy: 504, 1414
+  size: 500, 196
+  orig: 502, 198
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin18M
+  rotate: false
+  xy: 504, 1414
+  size: 500, 196
+  orig: 502, 198
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper19M
+  rotate: false
+  xy: 503, 1819
+  size: 500, 81
+  orig: 502, 83
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin19M
+  rotate: false
+  xy: 503, 1819
+  size: 500, 81
+  orig: 502, 83
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper20M
+  rotate: false
+  xy: 1503, 1612
+  size: 500, 174
+  orig: 502, 176
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin20M
+  rotate: false
+  xy: 1503, 1612
+  size: 500, 174
+  orig: 502, 176
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper21M
+  rotate: false
+  xy: 1502, 1097
+  size: 500, 283
+  orig: 502, 285
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin21M
+  rotate: false
+  xy: 1502, 1097
+  size: 500, 283
+  orig: 502, 285
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper22M
+  rotate: false
+  xy: 1494, 401
+  size: 496, 368
+  orig: 498, 370
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin22M
+  rotate: false
+  xy: 1494, 401
+  size: 496, 368
+  orig: 498, 370
+  offset: 1, 1
+  index: -1
+
+CoinsAll4.png
+size: 1976,1812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/coinMasks/MegaCoin02M
+  rotate: false
+  xy: 2, 514
+  size: 487, 450
+  orig: 489, 452
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin03M
+  rotate: false
+  xy: 2, 1402
+  size: 491, 408
+  orig: 493, 410
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin11M
+  rotate: false
+  xy: 989, 938
+  size: 488, 444
+  orig: 490, 446
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin12M
+  rotate: false
+  xy: 981, 2
+  size: 486, 472
+  orig: 488, 474
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin14M
+  rotate: false
+  xy: 2, 46
+  size: 487, 466
+  orig: 489, 468
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin15M
+  rotate: false
+  xy: 2, 966
+  size: 491, 434
+  orig: 493, 436
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin23M
+  rotate: false
+  xy: 989, 1384
+  size: 491, 426
+  orig: 493, 428
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin24M
+  rotate: false
+  xy: 981, 476
+  size: 488, 460
+  orig: 490, 462
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper02M
+  rotate: false
+  xy: 491, 514
+  size: 488, 450
+  orig: 490, 452
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin02M
+  rotate: false
+  xy: 491, 514
+  size: 488, 450
+  orig: 490, 452
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper03M
+  rotate: false
+  xy: 495, 1402
+  size: 492, 408
+  orig: 494, 410
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin03M
+  rotate: false
+  xy: 495, 1402
+  size: 492, 408
+  orig: 494, 410
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper11M
+  rotate: false
+  xy: 1479, 938
+  size: 489, 444
+  orig: 491, 446
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin11M
+  rotate: false
+  xy: 1479, 938
+  size: 489, 444
+  orig: 491, 446
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper12M
+  rotate: false
+  xy: 1469, 2
+  size: 487, 472
+  orig: 489, 474
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin12M
+  rotate: false
+  xy: 1469, 2
+  size: 487, 472
+  orig: 489, 474
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper14M
+  rotate: false
+  xy: 491, 46
+  size: 488, 466
+  orig: 490, 468
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin14M
+  rotate: false
+  xy: 491, 46
+  size: 488, 466
+  orig: 490, 468
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper15M
+  rotate: false
+  xy: 495, 966
+  size: 492, 434
+  orig: 494, 436
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin15M
+  rotate: false
+  xy: 495, 966
+  size: 492, 434
+  orig: 494, 436
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper23M
+  rotate: false
+  xy: 1482, 1384
+  size: 492, 426
+  orig: 494, 428
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin23M
+  rotate: false
+  xy: 1482, 1384
+  size: 492, 426
+  orig: 494, 428
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper24M
+  rotate: false
+  xy: 1471, 476
+  size: 489, 460
+  orig: 491, 462
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin24M
+  rotate: false
+  xy: 1471, 476
+  size: 489, 460
+  orig: 491, 462
+  offset: 1, 1
+  index: -1
+
+CoinsAll5.png
+size: 977,974
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/coinMasks/MegaCoin01M
+  rotate: false
+  xy: 2, 3
+  size: 485, 485
+  orig: 487, 487
+  offset: 1, 1
+  index: -1
+trans/coinMasks/MegaCoin13M
+  rotate: false
+  xy: 2, 490
+  size: 485, 482
+  orig: 487, 484
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper01M
+  rotate: false
+  xy: 489, 2
+  size: 486, 486
+  orig: 488, 488
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin01M
+  rotate: false
+  xy: 489, 2
+  size: 486, 486
+  orig: 488, 488
+  offset: 1, 1
+  index: -1
+trans/coinMasks/hyper13M
+  rotate: false
+  xy: 489, 490
+  size: 486, 482
+  orig: 488, 484
+  offset: 1, 1
+  index: -1
+trans/coinMasks/mysteryCoin13M
+  rotate: false
+  xy: 489, 490
+  size: 486, 482
+  orig: 488, 484
+  offset: 1, 1
+  index: -1
+
+CoinsAll.jpg
+size: 2010,1883
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/coins/MegaCoin04
+  rotate: false
+  xy: 500, 31
+  size: 495, 339
+  orig: 497, 341
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin05
+  rotate: false
+  xy: 502, 1008
+  size: 497, 248
+  orig: 499, 250
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin06
+  rotate: false
+  xy: 502, 1663
+  size: 497, 135
+  orig: 499, 137
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin07
+  rotate: false
+  xy: 1005, 1769
+  size: 497, 112
+  orig: 499, 114
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin08
+  rotate: false
+  xy: 1006, 1226
+  size: 497, 228
+  orig: 499, 230
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin09
+  rotate: false
+  xy: 2, 733
+  size: 495, 324
+  orig: 497, 326
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin17
+  rotate: false
+  xy: 1000, 674
+  size: 499, 300
+  orig: 501, 302
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin18
+  rotate: false
+  xy: 1508, 1434
+  size: 500, 196
+  orig: 502, 198
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin19
+  rotate: false
+  xy: 2, 1800
+  size: 499, 81
+  orig: 501, 83
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin20
+  rotate: false
+  xy: 2, 1487
+  size: 500, 174
+  orig: 502, 176
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin21
+  rotate: false
+  xy: 499, 723
+  size: 499, 283
+  orig: 501, 285
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper04
+  rotate: false
+  xy: 997, 26
+  size: 496, 339
+  orig: 498, 341
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper05
+  rotate: false
+  xy: 1001, 976
+  size: 498, 248
+  orig: 500, 250
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper06
+  rotate: false
+  xy: 1001, 1632
+  size: 498, 135
+  orig: 500, 137
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper07
+  rotate: false
+  xy: 1504, 1769
+  size: 498, 112
+  orig: 500, 114
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper08
+  rotate: false
+  xy: 1505, 1204
+  size: 498, 228
+  orig: 500, 230
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper09
+  rotate: false
+  xy: 1508, 343
+  size: 496, 324
+  orig: 498, 326
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper17
+  rotate: false
+  xy: 504, 372
+  size: 500, 300
+  orig: 502, 302
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper18
+  rotate: false
+  xy: 2, 1289
+  size: 500, 196
+  orig: 502, 198
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper19
+  rotate: false
+  xy: 503, 1800
+  size: 500, 81
+  orig: 502, 83
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin19
+  rotate: false
+  xy: 503, 1800
+  size: 500, 81
+  orig: 502, 83
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper20
+  rotate: false
+  xy: 504, 1456
+  size: 500, 174
+  orig: 502, 176
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper21
+  rotate: false
+  xy: 1501, 669
+  size: 500, 283
+  orig: 502, 285
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin04
+  rotate: false
+  xy: 1495, 2
+  size: 496, 339
+  orig: 498, 341
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin05
+  rotate: false
+  xy: 1501, 954
+  size: 498, 248
+  orig: 500, 250
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin06
+  rotate: false
+  xy: 1501, 1632
+  size: 498, 135
+  orig: 500, 137
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin07
+  rotate: false
+  xy: 2, 1686
+  size: 498, 112
+  orig: 500, 114
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin08
+  rotate: false
+  xy: 2, 1059
+  size: 498, 228
+  orig: 500, 230
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin09
+  rotate: false
+  xy: 2, 112
+  size: 496, 324
+  orig: 498, 326
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin17
+  rotate: false
+  xy: 1006, 367
+  size: 500, 300
+  orig: 502, 302
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin18
+  rotate: false
+  xy: 504, 1258
+  size: 500, 196
+  orig: 502, 198
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin20
+  rotate: false
+  xy: 1006, 1456
+  size: 500, 174
+  orig: 502, 176
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin21
+  rotate: false
+  xy: 2, 438
+  size: 500, 283
+  orig: 502, 285
+  offset: 1, 1
+  index: -1
+
+CoinsAll2.jpg
+size: 1935,1954
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/coins/MegaCoin01
+  rotate: false
+  xy: 2, 491
+  size: 485, 485
+  orig: 487, 487
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin12
+  rotate: true
+  xy: 490, 1466
+  size: 486, 472
+  orig: 488, 474
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin13
+  rotate: true
+  xy: 489, 491
+  size: 485, 482
+  orig: 487, 484
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin14
+  rotate: true
+  xy: 973, 975
+  size: 487, 466
+  orig: 489, 468
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper01
+  rotate: false
+  xy: 2, 1466
+  size: 486, 486
+  orig: 488, 488
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper12
+  rotate: true
+  xy: 970, 2
+  size: 487, 472
+  orig: 489, 474
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper13
+  rotate: true
+  xy: 2, 3
+  size: 486, 482
+  orig: 488, 484
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper14
+  rotate: true
+  xy: 973, 1464
+  size: 488, 466
+  orig: 490, 468
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper24
+  rotate: true
+  xy: 1441, 521
+  size: 489, 460
+  orig: 491, 462
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin01
+  rotate: false
+  xy: 2, 978
+  size: 486, 486
+  orig: 488, 488
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin12
+  rotate: false
+  xy: 1444, 1480
+  size: 487, 472
+  orig: 489, 474
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin13
+  rotate: true
+  xy: 486, 3
+  size: 486, 482
+  orig: 488, 484
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin14
+  rotate: false
+  xy: 1441, 1012
+  size: 488, 466
+  orig: 490, 468
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin24
+  rotate: false
+  xy: 1444, 59
+  size: 489, 460
+  orig: 491, 462
+  offset: 1, 1
+  index: -1
+
+CoinsAll3.jpg
+size: 1969,1861
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/coins/MegaCoin02
+  rotate: false
+  xy: 2, 495
+  size: 487, 450
+  orig: 489, 452
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin03
+  rotate: true
+  xy: 448, 2
+  size: 491, 408
+  orig: 493, 410
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin10
+  rotate: false
+  xy: 982, 580
+  size: 491, 397
+  orig: 493, 399
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin11
+  rotate: false
+  xy: 492, 963
+  size: 488, 444
+  orig: 490, 446
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin15
+  rotate: false
+  xy: 982, 979
+  size: 491, 434
+  orig: 493, 436
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin24
+  rotate: false
+  xy: 2, 1399
+  size: 488, 460
+  orig: 490, 462
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper02
+  rotate: false
+  xy: 2, 947
+  size: 488, 450
+  orig: 490, 452
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper03
+  rotate: false
+  xy: 1475, 579
+  size: 492, 408
+  orig: 494, 410
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper11
+  rotate: false
+  xy: 982, 1415
+  size: 489, 444
+  orig: 491, 446
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper15
+  rotate: false
+  xy: 1473, 1425
+  size: 492, 434
+  orig: 494, 436
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper23
+  rotate: false
+  xy: 858, 152
+  size: 492, 426
+  orig: 494, 428
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin02
+  rotate: false
+  xy: 492, 1409
+  size: 488, 450
+  orig: 490, 452
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin11
+  rotate: true
+  xy: 2, 4
+  size: 489, 444
+  orig: 491, 446
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin15
+  rotate: false
+  xy: 1475, 989
+  size: 492, 434
+  orig: 494, 436
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin23
+  rotate: false
+  xy: 1352, 151
+  size: 492, 426
+  orig: 494, 428
+  offset: 1, 1
+  index: -1
+
+CoinsAll4.jpg
+size: 1991,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/coins/MegaCoin16
+  rotate: true
+  xy: 2, 2
+  size: 495, 380
+  orig: 497, 382
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin22
+  rotate: true
+  xy: 384, 2
+  size: 495, 368
+  orig: 497, 370
+  offset: 1, 1
+  index: -1
+nonTrans/coins/MegaCoin23
+  rotate: true
+  xy: 1563, 10
+  size: 491, 426
+  orig: 493, 428
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper10
+  rotate: true
+  xy: 1164, 5
+  size: 492, 397
+  orig: 494, 399
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper16
+  rotate: true
+  xy: 2, 499
+  size: 496, 380
+  orig: 498, 382
+  offset: 1, 1
+  index: -1
+nonTrans/coins/hyper22
+  rotate: true
+  xy: 766, 499
+  size: 496, 368
+  orig: 498, 370
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin03
+  rotate: true
+  xy: 754, 5
+  size: 492, 408
+  orig: 494, 410
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin10
+  rotate: true
+  xy: 1506, 503
+  size: 492, 397
+  orig: 494, 399
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin16
+  rotate: true
+  xy: 384, 499
+  size: 496, 380
+  orig: 498, 382
+  offset: 1, 1
+  index: -1
+nonTrans/coins/mysteryCoin22
+  rotate: true
+  xy: 1136, 499
+  size: 496, 368
+  orig: 498, 370
+  offset: 1, 1
+  index: -1
+
+CoinsAll5.jpg
+size: 2017,1642
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nonTrans/effects/CB0000
+  rotate: false
+  xy: 2012, 925
+  size: 3, 3
+  orig: 600, 600
+  offset: 291, 302
+  index: -1
+nonTrans/effects/CB0001
+  rotate: false
+  xy: 1340, 519
+  size: 142, 142
+  orig: 600, 600
+  offset: 223, 233
+  index: -1
+nonTrans/effects/CB0002
+  rotate: false
+  xy: 1662, 155
+  size: 193, 192
+  orig: 600, 600
+  offset: 197, 207
+  index: -1
+nonTrans/effects/CB0003
+  rotate: false
+  xy: 1002, 132
+  size: 238, 244
+  orig: 600, 600
+  offset: 175, 182
+  index: -1
+nonTrans/effects/CB0004
+  rotate: false
+  xy: 1054, 378
+  size: 284, 283
+  orig: 600, 600
+  offset: 154, 160
+  index: -1
+nonTrans/effects/CB0005
+  rotate: false
+  xy: 1680, 1314
+  size: 329, 326
+  orig: 600, 600
+  offset: 130, 139
+  index: -1
+nonTrans/effects/CB0006
+  rotate: false
+  xy: 1484, 349
+  size: 365, 361
+  orig: 600, 600
+  offset: 113, 121
+  index: -1
+nonTrans/effects/CB0007
+  rotate: true
+  xy: 1484, 712
+  size: 402, 398
+  orig: 600, 600
+  offset: 95, 102
+  index: -1
+nonTrans/effects/CB0008
+  rotate: true
+  xy: 1054, 663
+  size: 433, 428
+  orig: 600, 600
+  offset: 81, 86
+  index: -1
+nonTrans/effects/CB0009
+  rotate: false
+  xy: 588, 638
+  size: 464, 458
+  orig: 600, 600
+  offset: 65, 71
+  index: -1
+nonTrans/effects/CB0010
+  rotate: true
+  xy: 518, 17
+  size: 489, 482
+  orig: 600, 600
+  offset: 54, 59
+  index: -1
+nonTrans/effects/CB0011
+  rotate: false
+  xy: 2, 2
+  size: 514, 504
+  orig: 600, 600
+  offset: 42, 47
+  index: -1
+nonTrans/effects/CB0012
+  rotate: false
+  xy: 1143, 1116
+  size: 535, 524
+  orig: 600, 600
+  offset: 32, 36
+  index: -1
+nonTrans/effects/CB0013
+  rotate: false
+  xy: 588, 1098
+  size: 553, 542
+  orig: 600, 600
+  offset: 24, 26
+  index: -1
+nonTrans/effects/CB0014
+  rotate: false
+  xy: 2, 508
+  size: 570, 558
+  orig: 600, 600
+  offset: 16, 18
+  index: -1
+nonTrans/effects/CB0015
+  rotate: false
+  xy: 2, 1068
+  size: 584, 572
+  orig: 600, 600
+  offset: 9, 11
+  index: -1
+nonTrans/effects/hyperIcon
+  rotate: false
+  xy: 1429, 90
+  size: 190, 94
+  orig: 190, 94
+  offset: 0, 0
+  index: -1
+nonTrans/effects/hyperIcon2-1
+  rotate: false
+  xy: 1429, 90
+  size: 190, 94
+  orig: 300, 300
+  offset: 55, 103
+  index: -1
+nonTrans/effects/hyperIcon2-2
+  rotate: false
+  xy: 776, 534
+  size: 196, 102
+  orig: 300, 300
+  offset: 52, 99
+  index: -1
+nonTrans/effects/hyperIcon2-3
+  rotate: false
+  xy: 574, 530
+  size: 200, 106
+  orig: 300, 300
+  offset: 50, 97
+  index: -1
+nonTrans/effects/hyperIcon2-4
+  rotate: false
+  xy: 1002, 20
+  size: 204, 110
+  orig: 300, 300
+  offset: 48, 95
+  index: -1
+nonTrans/effects/hyperIcon2-5
+  rotate: true
+  xy: 1884, 708
+  size: 220, 126
+  orig: 300, 300
+  offset: 40, 87
+  index: -1
+nonTrans/effects/hyperIcon2-6
+  rotate: true
+  xy: 1851, 458
+  size: 248, 155
+  orig: 300, 300
+  offset: 26, 72
+  index: -1
+nonTrans/effects/hyperIcon2-7
+  rotate: false
+  xy: 1680, 1133
+  size: 272, 179
+  orig: 300, 300
+  offset: 14, 60
+  index: -1
+nonTrans/effects/megaIcon
+  rotate: true
+  xy: 1857, 108
+  size: 169, 101
+  orig: 169, 101
+  offset: 0, 0
+  index: -1
+nonTrans/effects/megaIcon2-1
+  rotate: true
+  xy: 1857, 108
+  size: 169, 101
+  orig: 300, 300
+  offset: 65, 99
+  index: -1
+nonTrans/effects/megaIcon2-2
+  rotate: true
+  xy: 1857, 279
+  size: 177, 109
+  orig: 300, 300
+  offset: 61, 95
+  index: -1
+nonTrans/effects/megaIcon2-3
+  rotate: false
+  xy: 1621, 40
+  size: 181, 113
+  orig: 300, 300
+  offset: 59, 93
+  index: -1
+nonTrans/effects/megaIcon2-4
+  rotate: false
+  xy: 1208, 2
+  size: 185, 117
+  orig: 300, 300
+  offset: 57, 91
+  index: -1
+nonTrans/effects/megaIcon2-5
+  rotate: true
+  xy: 1884, 930
+  size: 201, 131
+  orig: 300, 300
+  offset: 49, 84
+  index: -1
+nonTrans/effects/megaIcon2-6
+  rotate: false
+  xy: 1429, 186
+  size: 231, 161
+  orig: 300, 300
+  offset: 34, 69
+  index: -1
+nonTrans/effects/megaIcon2-7
+  rotate: true
+  xy: 1242, 121
+  size: 255, 185
+  orig: 300, 300
+  offset: 22, 57
+  index: -1

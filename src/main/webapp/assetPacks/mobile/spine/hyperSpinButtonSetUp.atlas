@@ -1,0 +1,41 @@
+
+hyperSpinButtonSetUp.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/Glow01
+  rotate: false
+  xy: 2, 2
+  size: 917, 919
+  orig: 917, 919
+  offset: 0, 0
+  index: -1
+trans/buttonBase
+  rotate: false
+  xy: 921, 9
+  size: 451, 455
+  orig: 451, 455
+  offset: 0, 0
+  index: -1
+trans/buttonBaseDown
+  rotate: false
+  xy: 1374, 466
+  size: 451, 455
+  orig: 451, 455
+  offset: 0, 0
+  index: -1
+trans/buttonBaseOver
+  rotate: false
+  xy: 921, 466
+  size: 451, 455
+  orig: 451, 455
+  offset: 0, 0
+  index: -1
+trans/buttonGlow
+  rotate: false
+  xy: 1374, 110
+  size: 354, 354
+  orig: 354, 354
+  offset: 0, 0
+  index: -1
